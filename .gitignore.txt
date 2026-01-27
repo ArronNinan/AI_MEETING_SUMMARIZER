@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+
+# Node modules
+node_modules/
+
+# Data & media
+backend/data/
+audio/
+video/
+datasets/
+models/
+
+# Large files
+*.mp3
+*.wav
+*.mp4
+*.zip
+*.rar
+
+# Cache
+__pycache__/
+*.pyc
