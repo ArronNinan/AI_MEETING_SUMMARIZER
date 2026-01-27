@@ -1,8 +1,10 @@
-# Python virtual environment
+# Virtual environments
 venv/
+backend/venv/
 
 # Node modules
 node_modules/
+frontend/node_modules/
 
 # Data & media
 backend/data/
