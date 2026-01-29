@@ -122,10 +122,6 @@ Processed Output (Summary, Transcript, Sections)
 
 ### Backend Setup
 
-```bash
-git clone https://github.com/USERNAME/ai-meeting-summarizer.git
-cd ai-meeting-summarizer/backend
-
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
