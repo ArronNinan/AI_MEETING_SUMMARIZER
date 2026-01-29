@@ -203,18 +203,8 @@ All rights reserved © 2026.
 
 👨‍💻 Author
 
-Arron Ninan
-MCA – Artificial Intelligence
+Arron Binu Ninan
+Integrated MCA – S10 
 
 GitHub: https://github.com/ArronNinan
-
-⭐ Acknowledgements
-
-OpenAI (Whisper AI)
-
-Flask Community
-
-React.js Community
-
-Open-source NLP tools
 
