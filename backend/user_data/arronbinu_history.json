@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0a23a8ff-99a8-421d-b14f-1bc72c2bb515",
+    "type": "full_report",
+    "filename": "OSR_us_000_0010_8k.wav",
+    "created_at": "2026-03-19T13:16:27.153606",
+    "audio_duration_sec": 33.6,
+    "transcript": "The birch canoes lid on the smooth planks. Glue the sheet to the dark blue background. It is easy to tell the depths of a well. These days the chicken leg is a rare dish. Rice is often served in round bowls. The juice of lemons makes fine punch. The box was thrown beside the pug truck. The hogs were fed chopped corn and garbage. Four hours of study work faced us. A large size in stockings is hard to sell.",
+    "summary": "The birch canoes lid was applied to the smooth planks with glue, creating a clear distinction between the sheet and the dark blue background.",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "text": "The birch canoes lid on the smooth planks. Glue the sheet to the dark blue background. It is easy to tell the depths of a well. These days the chicken leg is a rare dish. Rice is often served in round bowls. The juice of lemons makes fine punch. The box was thrown beside the pug truck. The hogs were fed chopped corn and garbage. Four hours of study work faced us. A large size in stockings is hard to sell.",
+        "duration": 32.1
+      }
+    ],
+    "attendees": [
+      {
+        "id": "Speaker 1",
+        "speaking_time": 32,
+        "segments": 1
+      }
+    ],
+    "llm_used": true,
+    "summary_mode": "llm",
+    "agendas": [],
+    "key_decisions": [],
+    "key_highlights": [],
+    "action_items": [
+      {
+        "item": "Complete apply birch canoe lids to smooth planks.",
+        "owner": "TBD"
+      }
+    ],
+    "topics": [
+      {
+        "topic": "Birch Canoe Lid Application"
+      },
+      {
+        "topic": "Chicken Leg Dish"
+      },
+      {
+        "topic": "Rice Serving"
+      }
+    ],
+    "stats": {
+      "total_words": 81
+    }
+  }
+]
