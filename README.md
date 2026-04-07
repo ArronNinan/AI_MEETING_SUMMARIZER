@@ -45,4 +45,5 @@ The application consists of a React-based frontend and a Python Flask backend, f
 Completed and functional as a full-stack web application. The system supports end-to-end meeting transcription and summarization with user management and report generation capabilities.
 
 ## Author
-Arron
+Arron Binu Ninan
+S10 IMCA
